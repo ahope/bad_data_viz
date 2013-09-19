@@ -126,7 +126,7 @@ public class AllBurnData {
 		ObjectMapper mapper = new ObjectMapper();
 
 
-		try {
+		try {  
 
 			//	HashMap<String, Object> rawData= (HashMap<String, Object>) mapper.readValue(burnDayJson, Object.class); //isr, Object.class);
 			//	List<Object> allDays = (List<Object>) rawData.get("allDays");
